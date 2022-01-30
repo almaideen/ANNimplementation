@@ -4,3 +4,6 @@ numpy
 pandas
 seaborn
 PyYaml
+
+
+## pip install -e . to install local packages
