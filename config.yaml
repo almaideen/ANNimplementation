@@ -5,6 +5,7 @@ params:
   metrics: accuracy
   optimizer: SCD
   validation_datasize: 5000
+  num_classes: 10
 
 artifacts:
   artifacts_dir: artifacts
